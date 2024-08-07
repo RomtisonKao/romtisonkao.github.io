@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Romtison Kao # the main title
 
-tagline: 敢于直面惨淡的人生 # it will display as the sub-title
+tagline: Dare to confront the dismal life directly # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
